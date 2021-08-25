@@ -1,2 +1,2 @@
-# pcc-gtfs
-Peoria Charter Coach GTFS Feed
+# Peoria Charter Coach GTFS Feed
+GTFS feed for scheduled runs.
