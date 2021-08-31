@@ -1,0 +1,12 @@
+trip_id,stop_sequence,arrival_time,departure_time,stop_id,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled
+CU0215NB,1,02:13:00,02:13:00,it,,0,1,
+CU0215NB,2,02:23:00,02:23:00,arm,,0,1,
+CU0215NB,3,02:33:00,02:33:00,isr,,0,1,
+CU0215NB,4,05:10:00,05:10:00,mdwDep,,1,0,
+CU0215NB,5,05:55:00,05:55:00,t2Dep,,1,0,
+CU0215NB,6,06:05:00,06:05:00,t5Dep,,1,0,
+CU0215SB,1,06:58:00,06:58:00,bsc,,0,1,
+CU0215SB,2,07:13:00,07:13:00,t5Arr,,0,1,
+CU0215SB,3,09:55:00,09:55:00,it,,1,0,
+CU0215SB,4,10:05:00,10:05:00,arm,,1,0,
+CU0215SB,5,10:10:00,10:10:00,isr,,1,0,

@@ -1,0 +1,11 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id
+CU0215,daily,CU0215NB,CU-0215 Northbound,0,
+CU0215,daily,CU0215SB,CU-0215 Southbound,1,
+CU0615,daily,CU0615NB,CU-0615 Northbound,0,
+CU0615,daily,CU0615SB,CU-0615 Southbound,1,
+CU1015,daily,CU1015NB,CU-1015 Northbound,0,
+CU1015,daily,CU1015SB,CU-1015 Southbound,1,
+CU1315,daily,CU1315NB,CU-1315 Northbound,0,
+CU1315,daily,CU1315SB,CU-1315 Southbound,1,
+CU1715,daily,CU1715NB,CU-1715 Northbound,0,
+CU1715,daily,CU1715SB,CU-1715 Southbound,1,
