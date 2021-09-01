@@ -1,2 +1,4 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
 daily,1,1,1,1,1,1,1,20210901,20210930
+mon-sat,1,1,1,1,1,1,0,20210901,20210930
+sunRun,0,0,0,0,0,0,1,20210901,20210930
