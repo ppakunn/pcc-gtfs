@@ -1,10 +1,3 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-CU0215,PCC,CU-0215,CU-0215,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU0415,PCC,CU-0415,CU-0415,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU0615,PCC,CU-0615,CU-0615,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU0815,PCC,CU-0815,CU-0815,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU1015,PCC,CU-1015,CU-1015,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU1115,PCC,CU-1115,CU-1115,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU1315,PCC,CU-1315,CU-1315,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU1515,PCC,CU-1515,CU-1515,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
-CU1715,PCC,CU-1715,CU-1715,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,,,
+CU,PCC,CU,Champaign-Urbana,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,https://peoriacharter.com/storage/schedule/cu-aug.pdf,ff5800,ffffff
+PBL,PCC,PB Lim,Peoria and Bloomington-Normal Limited,"Limited bus service operating between Peoria, IL, Bloomington-Normal, IL, and the Chicagoland area.",3,https://peoriacharter.com/storage/schedule/peoria_limited-aug.pdf,c00000,ffffff
