@@ -1,3 +1,3 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-CU,PCC,Peoria Charter (CU),Champaign-Urbana,"Bus service operating between Champaign-Urbana, IL and the Chicagoland area.",3,https://peoriacharter.com/storage/schedule/cu-aug.pdf,ff5800,ffffff
-PBL,PCC,Peoria Charter (PB Lim),Peoria and Bloomington-Normal Limited,"Limited bus service operating between Peoria, IL, Bloomington-Normal, IL, and the Chicagoland area.",3,https://peoriacharter.com/storage/schedule/peoria_limited-aug.pdf,c00000,ffffff
+pcc_cu,PCC,Peoria Charter - CU,Champaign-Urbana,Service between Champaign-Urbana and Chicagoland in Illinois,3,https://peoriacharter.com/storage/schedule/cu-aug.pdf,FF5800,FFFFFF
+pcc_pbn,PCC,Peoria Charter - PBN Lim,Peoria and Bloomington-Normal Limited,"Limited bus service operating between Peoria, Bloomington-Normal, and the Chicagoland area in Illinois",3,https://peoriacharter.com/storage/schedule/peoria_limited-aug.pdf,C00000,FFFFFF
