@@ -11,7 +11,7 @@ chi-oak,chi-oak,Oakbrook Center,Oakbrook Center Parking Lot E (southwest corner 
 chi-down,chi-down,Downers Grove,"The Grove Shopping Center, parking Lot west of White Castle at 1204 75th St, Downers Grove, IL 60516",41.75254,-88.01413,,0,,,
 chi-woodfield,chi-woodfield,Woodfield Mall,Parking Lot E-30 and E-31 (near Ashley HomeStore),42.04635,-88.0325,,0,,,
 chi-ordbus,chi-ordbus,O'Hare Bus Shuttle Center,"Near or past Door 4 (as space permits), across the street from Hilton Hotel.",41.97807,-87.90432,,0,,,
-chi-ordt5arr,chi-ordt5arr,O'Hare Int Terminal 5 Arrivals,O'Hare International Terminal 5 Arrivals lower level Door 5E on the Regional Bus platform OUTSIDE,41.daily_Ethurs_Efri,-87.88942,,0,,,
+chi-ordt5arr,chi-ordt5arr,O'Hare Int Terminal 5 Arrivals,O'Hare International Terminal 5 Arrivals lower level Door 5E on the Regional Bus platform OUTSIDE,41.97487,-87.88942,,0,,,
 chi-mdwbus,chi-mdwbus,Midway Airport Regional Bus Stop,Midway Airport Regional Bus Stop (Lower Level),41.78854391,-87.73996927,,0,,,
 pbn-pcc,pbn-pcc,Peoria Charter Plaza,"Peoria Charter Home Office. 2600 NE Adams St Peoria, IL. waiting room on the north side of the building",40.71358,-89.56068,,0,,,
 pbn-citylink,pbn-citylink,City Link,"CityLink Transit Center, 407 SW Adams St. Underneath the Canopy at Spot 1",40.68948,-89.59395,,0,,,
