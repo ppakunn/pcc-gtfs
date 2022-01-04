@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Peoria Charter,http://peoriacharter.com/,en,20211101,20220131,2.1
+Peoria Charter,http://peoriacharter.com/,en,20211101,20220228,2.1
