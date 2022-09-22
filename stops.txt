@@ -13,3 +13,8 @@ chi-woodfield,chi-woodfield,Woodfield Mall,Parking Lot E-30 and E-31 (near Ashle
 chi-ordbus,chi-ordbus,O'Hare Bus Shuttle Center,"Near or past Door 4 (as space permits), across the street from Hilton Hotel",41.97807,-87.90432,,0,,,
 chi-ordt5arr,chi-ordt5arr,O'Hare Int Terminal 5 Arrivals,Exit Terminal 5 lower level Door 5E to head towards the Regional Bus stop on far outside platform,41.97487,-87.88942,,0,,,
 chi-mdwbus,chi-mdwbus,Midway Airport Regional Bus Stop,"Midway Airport Regional Bus Stop (Lower Level, east of baggage claim past the parking garage facility)",41.78854391,-87.73996927,,0,,,
+pbn-pcc,pbn-pcc,Peoria Charter Plaza,"2600 NE Adams St Peoria, IL. Waiting room on the north side of the building",40.71358,-89.56068,,0,,,
+pbn-citylink,pbn-citylink,City Link,CityLink Transit Center: 407 SW Adams St. Underneath the canopy at Spot 1,40.68948,-89.59395,,0,,,
+pbn-bu,pbn-bu,Bradley University,On Elmwood St outside of Sisson Hall. Attention: bus stop cannot be seen from inside the Bob Michel Student Center.,40.69927166,-89.61483336,,0,,,
+pbn-uptown,pbn-uptown,Uptown Station,Underneath the parking deck near where the Connect Transit buses board,40.50872,-88.98484,,0,,,
+pbn-watt,pbn-watt,Watterson Commons,North of the building on North Street,40.50937,-88.98809,,0,,,
