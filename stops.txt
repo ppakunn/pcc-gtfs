@@ -4,7 +4,6 @@ cu-arm,cu-arm,Armory,On E Armory Ave between 4th St and 5th St. Located south of
 cu-isr,cu-isr,Illinois Street Residence Hall,"South side of Illinois Street Residence Hall, in front of the Levis Faculty Building (919 W Illinois St)",40.10895,-88.22105,,0,,,
 chi-mdwdep,chi-mdwdep,Midway Airport Departures,Midway Airport Departures Upper Level,41.78863,-87.74096,,0,,,
 chi-matt,chi-matt,Matteson,"Far east end of Former Toys''R''Us parking lot, across the road from Fuddruckers",41.50521,-87.73419,,0,,,
-chi-union,chi-union,Chicago Union Station,Southeast corner of W Jackson and S Canal. On Jackson Blvd next to the Historic Route 66 sign.,41.87799,-87.63912,,0,,,
 chi-ordt2dep,chi-ordt2dep,O'Hare Terminal 2 Departures,"ORD Terminal 2 Departures (Upper Level), adjacent to Terminals 1 and 3",41.97693,-87.90498,,0,,,
 chi-downtown,chi-downtown,Chicago Downtown,West Side of Desplaines Street between Congress Pkwy and Tilden St (approx. address 500 S. Desplaines Street) underneath the I-290 bridge,41.8754354525087,-87.6439688098396,,0,,,
 chi-down,chi-down,Downers Grove,"The Grove Shopping Center, parking lot west of White Castle (1204 75th St, Downers Grove, IL 60516)",41.75254,-88.01413,,0,,,
