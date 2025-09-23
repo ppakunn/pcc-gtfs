@@ -5,6 +5,7 @@ cx_0700_nb,pcc_cu,sat-mon,CX-0700,CX-0700,1,NB-CuOakOrdt2Wdf,,2
 cx_0700_nb_thufri,pcc_cu,thu-fri,CX-0700,CX-0700,1,NB-CuDwnOakOrdt2Wdf,,2
 cu_0500_nb,pcc_cu,daily,CU-0500,CU-0500,0,NB-CuMdwOrdt2,,2
 cu_0500_sb,pcc_cu,daily,CU-0500,CU-0500,1,SB-OrdmmfChiMattCu,,2
+cx_1130_sb,pcc_cu,thufrisunmon,CX-1130,CX-1130,0,SB-WdfOrdmmfOakDwnCu,,2
 cx_1130_nb,pcc_cu,sun-mon,CX-1130,CX-1130,1,NB-CuOakOrdt2Wdf,,2
 cx_1130_nb_thufri,pcc_cu,thu-fri,CX-1130,CX-1130,1,NB-CuDwnOakOrdt2Wdf,,2
 cu_0800_nb_frisat,pcc_cu,fri-sat,CU-0800,CU-0800,0,NB-CuDwnOakWdfOrdt2,,2
