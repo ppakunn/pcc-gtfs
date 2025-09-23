@@ -1,3 +1,4 @@
 route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
-pcc_cu,Peoria Charter - CU,Champaign-Urbana,Bus service between Champaign-Urbana and Chicagoland in Illinois,https://peoriacharter.com/storage/schedule/cu-2023_10.pdf,FF5800,FFFFFF,3
-pcc_pbn,Peoria Charter - PBN,Peoria and Bloomington-Normal,"Bus service operating between Peoria, Bloomington-Normal, and the Chicagoland area in Illinois",https://peoriacharter.com/storage/schedule/peoria-2023_10.pdf,C00000,FFFFFF,3
+pcc_cu,Peoria Charter - CU,PCC - Champaign-Urbana,Bus service between Champaign-Urbana and Chicagoland in Illinois,https://peoriacharter.com/storage/schedule/cu-2025_08.pdf,FF5800,FFFFFF,3
+pcc_pbn,Peoria Charter - PBN,PCC - Peoria and Bloomington-Normal,"Bus service operating between Peoria, Bloomington-Normal, and the Chicagoland area in Illinois",https://peoriacharter.com/storage/schedule/peoria-2025_08.pdf,C00000,FFFFFF,3
+pcc_wl,Peoria Charter - WL,PCC - West Lafayette,"Bus service between West Lafayette, Chicagoland area, and Champaign-Urbana in Illinois",https://peoriacharter.com/storage/schedule/purdue-2025_04.pdf,CA8A04,FFFFF,3
