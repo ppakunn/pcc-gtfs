@@ -2,5 +2,7 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 daily,1,1,1,1,1,1,1,20250813,20260531
 thu-sun,0,0,0,1,1,1,1,20250813,20260531
 thu-fri,0,0,0,1,1,0,0,20250813,20260531
+thufrisunmon,1,0,0,1,1,0,1,20250813,20260531
 sat-mon,1,0,0,0,0,1,1,20250813,20260531
+sun-mon,1,0,0,0,0,0,1,20250813,20260531
 mon,1,0,0,0,0,0,0,20250813,20260531
