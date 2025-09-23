@@ -1,4 +1,14 @@
 trip_id,arrival_time,departure_time,stop_id,stop_sequence,timepoint,pickup_type,drop_off_type
+cx_0700_sb,07:00:00,07:00:00,chi-ordmmf,0,1,0,1
+cx_0700_sb,09:30:00,09:30:00,cu-it,1,1,1,0
+cx_0700_sb,09:40:00,09:40:00,cu-arm,2,1,1,0
+cx_0700_sb,09:45:00,09:45:00,cu-isr,3,1,1,0
+cx_0700_sb_mon,06:25:00,06:25:00,chi-woodfield,0,1,0,1
+cx_0700_sb_mon,07:00:00,07:00:00,chi-ordmmf,1,1,0,1
+cx_0700_sb_mon,09:30:00,09:30:00,cu-it,2,1,1,0
+cx_0700_sb_mon,09:40:00,09:40:00,cu-arm,3,1,1,0
+cx_0700_sb_mon,09:45:00,09:45:00,cu-isr,4,1,1,0
+
 cu_0510_nb,05:10:00,05:10:00,cu-it,0,1,0,1
 cu_0510_nb,05:20:00,05:20:00,cu-arm,1,1,0,1
 cu_0510_nb,05:30:00,05:30:00,cu-isr,2,1,0,1
