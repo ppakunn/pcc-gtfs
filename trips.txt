@@ -3,3 +3,4 @@ cx_0700_sb,pcc_cu,thu-sun,CX-0700,CX-0700,0,SB-CX0700-reg,,2
 cx_0700_sb_mon,pcc_cu,mon,CX-0700,CX-0700,0,SB-CX0700-mon,,2
 cx_0700_nb,pcc_cu,sat-mon,CX-0700,CX-0700,1,NB-CX0700-reg,,2
 cx_0700_nb_thufri,pcc_cu,thu-fri,CX-0700,CX-0700,1,NB-CX0700-thufri,,2
+cu_0500_nb,pcc_cu,daily,CU-0500,CU-0500,0,NB-CU0500-reg,,2
