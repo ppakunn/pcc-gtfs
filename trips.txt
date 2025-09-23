@@ -8,6 +8,7 @@ cu_0500_sb,pcc_cu,daily,CU-0500,CU-0500,1,SB-OrdmmfChiMattCu,,2
 cx_1130_sb,pcc_cu,thufrisunmon,CX-1130,CX-1130,0,SB-WdfOrdmmfOakDwnCu,,2
 cx_1130_nb,pcc_cu,sun-mon,CX-1130,CX-1130,1,NB-CuOakOrdt2Wdf,,2
 cx_1130_nb_thufri,pcc_cu,thu-fri,CX-1130,CX-1130,1,NB-CuDwnOakOrdt2Wdf,,2
+cu_0700_nb,pcc_cu,daily,CU-0700,CU-0700,0,NB-CuMattChiOrdt2,,2
 cu_0800_nb_frisat,pcc_cu,fri-sat,CU-0800,CU-0800,0,NB-CuDwnOakWdfOrdt2,,2
 cu_1000_sb_mon,pcc_cu,mon,CU-1000,CU-1000,1,SB-OrdmmfWdfOakDwnCu,,2
 cu_1400_nb,pcc_cu,daily,CU-1400,CU-1400,0,NB-CuDwnOakWdfOrdt2,,2
