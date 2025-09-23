@@ -9,3 +9,4 @@ cx_1130_nb,pcc_cu,sun-mon,CX-1130,CX-1130,1,NB-CXcuOakOrdWdf,,2
 cx_1130_nb_thufri,pcc_cu,thu-fri,CX-1130,CX-1130,1,NB-CXsubs,,2
 cu_0800_nb_frisat,pcc_cu,fri-sat,CU-0800,CU-0800,0,NB-CUsubs,,2
 cu_1400_nb,pcc_cu,daily,CU-1400,CU-1400,0,NB-CUsubs,,2
+cu_1400_sb,pcc_cu,daily,CU-1400,CU-1400,1,SB-CUsubs,,2
