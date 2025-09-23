@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Stops</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Illinois Terminal</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.24201,40.11539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armory</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.23249,40.10536,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ISR</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.22105,40.10895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midway Airport Departures</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.74096,41.78863,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Matteson</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.73419,41.50521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[O'Hare Terminal 2 Departures]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.90498,41.97693,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Downtown Chicago</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.6439688098396,41.8754354525087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Downers Grove</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.01413,41.75254,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oakbrook Center</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.95546,41.84698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodfield Mall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.0325,42.04635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Golf Mill</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.8375717,42.0475103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Orchard</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.7523861,42.0610668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northbrook Court</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.8117962,42.1509626,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[O'Hare MMF]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.8825904428959,41.9934270997459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midway Airport Regional Bus Stop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -87.73996927,41.78854391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peoria Charter Plaza</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.56068,40.71358,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Link</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.59395,40.68948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bradley University</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -89.61483336,40.69927166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uptown Station</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.98484,40.50872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Watterson Commons</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -88.98809,40.50937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lilly Hall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -86.9171642,40.4240629,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
