@@ -5,5 +5,6 @@ cx_0700_nb,pcc_cu,sat-mon,CX-0700,CX-0700,1,NB-CXcuOakOrdWdf,,2
 cx_0700_nb_thufri,pcc_cu,thu-fri,CX-0700,CX-0700,1,NB-CXsubs,,2
 cu_0500_nb,pcc_cu,daily,CU-0500,CU-0500,0,NB-CU0500-reg,,2
 cu_0500_sb,pcc_cu,daily,CU-0500,CU-0500,1,SB-CU0500-reg,,2
+cx_1130_nb_thufri,pcc_cu,thu-fri,CX-1130,CX-1130,1,NB-CXsubs,,2
 cu_0800_nb_frisat,pcc_cu,fri-sat,CU-0800,CU-0800,0,NB-CUsubs-reg,,2
 cu_1400_nb,pcc_cu,daily,CU-1400,CU-1400,0,NB-CUsubs-reg,,2
