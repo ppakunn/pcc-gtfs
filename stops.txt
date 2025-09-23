@@ -9,6 +9,7 @@ chi-downtown,chi-downtown,Chicago Downtown,West Side of Desplaines Street betwee
 chi-down,chi-down,Downers Grove,"The Grove Shopping Center, parking lot west of White Castle (1204 75th St, Downers Grove, IL 60516)",41.75254,-88.01413,,0,,,
 chi-oak,chi-oak,Oakbrook Center,Oakbrook Center Parking Lot E (southwest corner of the shopping center),41.84698,-87.95546,,0,,,
 chi-woodfield,chi-woodfield,Woodfield Mall,Parking Lot E-30 and E-31 (near Ashley HomeStore),42.04635,-88.0325,,0,,,
+chi-northbrook,chi-northbrook,Northbrook Court,Parking lot east of Neiman Marcus (overflow lot on the east side of Northbrook Court circle drive),42.1509626,-87.8117962,,0,,,
 chi-golfmill,chi-golfmill,Golf Mill,Along the southern-most row of parking spots of the JCPenny parking lot.,42.04751, -87.83757,,0,,,
 chi-ordmmf,chi-ordmmf,O'Hare Multi-Modal Facility,"Bay 5, 6, or 7 at the O'Hare Airport Multi-Modal Facility (Regional Bus Stop) Located at 10255 W. Zemke Blvd., Chicago, IL 60666",41.9934270997459,-87.8825904428959,,0,,,
 chi-mdwbus,chi-mdwbus,Midway Airport Regional Bus Stop,"Midway Airport Regional Bus Stop (Lower Level, east of baggage claim past the parking garage facility)",41.78854391,-87.73996927,,0,,,
