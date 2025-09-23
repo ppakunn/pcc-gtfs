@@ -16,3 +16,4 @@ pbn-citylink,pbn-citylink,City Link,CityLink Transit Center: 407 SW Adams St. Un
 pbn-bu,pbn-bu,Bradley University,On Elmwood St outside of Sisson Hall. Attention: bus stop cannot be seen from inside the Bob Michel Student Center.,40.69927166,-89.61483336,,0,,,
 pbn-uptown,pbn-uptown,Uptown Station,Underneath the parking deck near where the Connect Transit buses board,40.50872,-88.98484,,0,,,
 pbn-watt,pbn-watt,Watterson Commons,North of the building on North Street,40.50937,-88.98809,,0,,,
+wl-lilly,wl-lilly,Lilly Hall,South side of W State St. between Waldron St. and University St. in the bus cut-out,40.42406,-86.91716,,0,,,
