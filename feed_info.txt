@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_version
-Peoria Charter Coach,https://peoriacharter.com/,en,info@peoriacharter.com,https://peoriacharter.com/contact20250813,20260531,7.0
+Peoria Charter Coach,https://peoriacharter.com/,en,info@peoriacharter.com,https://peoriacharter.com/contact,20250813,20260531,7.0
