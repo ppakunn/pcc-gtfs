@@ -23,3 +23,7 @@ pb_0645_nb,pcc_pbn,sun-thu,PB-0645,PB-0645,0,NB-PeoUptDwnWdfOrdt2,,2
 pb_0645_nb_frisat,pcc_pbn,fri-sat,PB-0645,PB-0645,0,NB-PeoWattUptDwnOakWdfOrdt2,,2
 pb_0645_sb,pcc_pbn,mon-sat,PB-0645,PB-0645,1,SB-OrdmmfWdfDwnUptPeo,,2
 pb-0645_sb_sun,pcc_pbn,sun,PB-0645,PB-0645,1,SB-OrdmmfWdfOakDwnWattUptPeo,,2
+pb_1145_nb,pcc_pbn,sun,PB-1145,PB-1145,0,NB-PeoUptDwnWdfOrdt2,,2
+pb_1145_nb_thufri,pcc_pbn,thu-fri,PB-1145,PB-1145,0,NB-PeoWattUptDwnOakWdfOrdt2,,2
+pb_1145_sb,pcc_pbn,thu-fri,PB-1145,PB-1145,1,SB-OrdmmfWdfDwnUptPeo,,2
+pb_1145_sb_sun,pcc_pbn,sun,PB-1145,PB-1145,1,SB-OrdmmfWdfOakDwnWattUptPeo,,2
