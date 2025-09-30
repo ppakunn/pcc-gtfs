@@ -38,3 +38,5 @@ x_1710n,pcc_cu,sun,X-1710N,X-1710N,1,SB-NorthGolfOakCu,,2
 x_1825c,pcc_cu,sun,X-1825C,X-1825C,1,SB-OldChiCu,,2
 x_1755w,pcc_cu,sun,X-1755W,X-1755W,1,SB-WdfDownCu,,2
 x_1855w,pcc_cu,sun,X-1855W,X-1855W,1,SB-WdfDownCu,,2
+wl_1620_nb,pcc_wl,fri,WL-1620,WL-1620,0,NB-ArmIsrLillyWdfOrdt2,,2
+wl_1620_sb,pcc_wl,fri,WL-1620,WL-1620,1,SB-OrdmmfCu,,2
