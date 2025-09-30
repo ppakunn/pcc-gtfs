@@ -31,3 +31,4 @@ px_0900_sb,pcc_pbn,thu-fri,PX-0900,PX-0900,0,SB-OrdmmfDwnUptPeo,,2
 px_0900_sb_mon,pcc_pbn,mon,PX-0900,PX-0900,0,SB-WdfOrdmmfOakDwnWattUptPeo,,2
 px_0900_nb,pcc_pbn,mon,PX-0900,PX-0900,1,NB-PeoUptDwnOrdt2Wdf,,2
 px_0900_nb_thufri,pcc_pbn,thu-fri,PX-0900,PX-0900,1,NB-PeoWattUptDwnOakOrdt2Wdf,,2
+x_1500c,pcc_cu,fri,X-1500C,X-1500C,0,NB-CuChiOld,,2
