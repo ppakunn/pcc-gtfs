@@ -29,5 +29,5 @@ pb_1145_sb,pcc_pbn,thu-fri,PB-1145,PB-1145,1,SB-OrdmmfWdfDwnUptPeo,,2
 pb_1145_sb_sun,pcc_pbn,sun,PB-1145,PB-1145,1,SB-OrdmmfWdfOakDwnWattUptPeo,,2
 px_0900_sb,pcc_pbn,thu-fri,PX-0900,PX-0900,0,SB-OrdmmfDwnUptPeo,,2
 px_0900_sb_mon,pcc_pbn,mon,PX-0900,PX-0900,0,SB-WdfOrdmmfOakDwnWattUptPeo,,2
-px_0900_nb,pcc_pbn,mon,PX-0900,PX-0900,1,NB-PeoUptDwnWdfOrdt2,,2
-px_0900_nb_thufri,pcc_pbn,thu-fri,PX-0900,PX-0900,1,NB-PeoWattUptDwnOakWdfOrdt2,,2
+px_0900_nb,pcc_pbn,mon,PX-0900,PX-0900,1,NB-PeoUptDwnOrdt2Wdf,,2
+px_0900_nb_thufri,pcc_pbn,thu-fri,PX-0900,PX-0900,1,NB-PeoWattUptDwnOakOrdt2Wdf,,2
