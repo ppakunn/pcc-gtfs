@@ -34,3 +34,4 @@ px_0900_nb_thufri,pcc_pbn,thu-fri,PX-0900,PX-0900,1,NB-PeoWattUptDwnOakOrdt2Wdf,
 x_1500c,pcc_cu,fri,X-1500C,X-1500C,0,NB-CuChiOld,,2
 x_1600n,pcc_cu,fri,X-1600N,X-1600N,0,NB-ArmIsrOakGolfNorth,,2
 x_1600w,pcc_cu,fri,X-1600W,X-1600W,0,NB-ArmIsrDwnWdf,,2
+x_1710n,pcc_cu,sun,X-1710N,X-1710N,1,SB-NorthGolfOakCu,,2
